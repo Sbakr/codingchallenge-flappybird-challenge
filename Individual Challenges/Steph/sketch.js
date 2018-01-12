@@ -37,7 +37,3 @@ function keyPressed() {
         //console.log("SpaceBar");
     }
 }
-
-
-
-17:17 time
